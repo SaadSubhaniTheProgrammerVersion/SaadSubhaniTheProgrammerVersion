@@ -11,8 +11,15 @@
 - 💞️ I’m looking to collaborate on any project that you find me eligible for.
 - 📫 How to reach me (my email of course).
 - saad.subhani123456@gmail.com
-- Here is a link to my website, where I have shared my coding journey.
-https://sites.google.com/view/saadsubhani/my-coding-journey?authuser=0
+
+
+
+```javascript
+var Saad = {
+  Languages: [C/C++,Python,Java,Javascript],
+  Web: [HTML/CSS/Javascript/Jquery , Bootstrap , MongoDB , Express.js, React.js , Angular.js ,Node.js];
+}
+```
 
 <!---
 SaadSubhaniTheProgrammerVersion/SaadSubhaniTheProgrammerVersion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
