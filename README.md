@@ -1,6 +1,7 @@
 <!-- ![GIF]() -->
  
-<img align='center' src="https://tenor.com/view/programmer-gif-19019116" width="800" height="525"> 
+<img align='center' src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" > 
+<!-- width="800" height="525" -->
 
 
 ```javascript
