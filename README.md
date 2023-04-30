@@ -1,15 +1,8 @@
-![GIF](https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif)
+<!-- ![GIF](https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif) -->
  
-<!-- <img align='center' src="" > 
-<!-- width="800" height="525" -->
- -->
-
-```javascript
-var Saad = {
-  Languages: ["C/C++" ,"Python" ,"Java", "Javascript"],
-  Web: ["HTML/CSS/Javascript/Jquery" , "Bootstrap" , "MongoDB" , "Express.js", "React.js" , "Angular.js" ,"Node.js"];
-}
-```
+<p align="center">
+  <img src="(https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif)" alt="GIF" />
+</p>
 
 <h1>Welcome to my programming zone.</h1>
 
