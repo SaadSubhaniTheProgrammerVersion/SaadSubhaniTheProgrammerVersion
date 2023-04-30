@@ -12,7 +12,7 @@
 + 👀 I’m interested in computers,coding and tech
 + 🌱 I’m currently completing my Computer Sciences Degree from National University of Sciences and Technolgy, Islamabad
 + 💞️ I’m looking to collaborate on any project that you find me eligible for.
-+ 📫 How to reach me (my email of course). **ssubhani.bscs20seecs@seecs.edu.pk**
++ 📫 How to reach me (my email of course) that is **ssubhani.bscs20seecs@seecs.edu.pk**
 
  
 
