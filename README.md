@@ -4,7 +4,9 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" alt="GIF" width="850px" height="auto"/>
 </p>
 
+<div align="center">
 <h1>Welcome to my programming zone.</h1>
+</div>
 
 - 👋 Hi, I’m @SaadSubhaniTheProgrammerVersion
 - 👀 I’m interested in computers,coding and tech
