@@ -9,12 +9,10 @@
 </div>
 
 + 👋 Hi, I’m @SaadSubhaniTheProgrammerVersion
-+ 👀 I’m interested in computers,coding and tech
++ 👀 I’m interested in computers, coding and tech
 + 🌱 I’m currently completing my Computer Sciences Degree from National University of Sciences and Technolgy, Islamabad
 + 💞️ I’m looking to collaborate on any project that you find me eligible for.
 + 📫 How to reach me? Use this email **ssubhani.bscs20seecs@seecs.edu.pk**
-
-<center>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/saad-subhani/)</center>
 
 
 
